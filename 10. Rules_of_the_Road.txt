@@ -3,6 +3,7 @@ Box Junction : You cant enter the Yellow Box Junction.
 
 Parking : When you are parking on the road where there are speed limit is more than 30 mph., you need to leave your side light / parking lights on. 
 Park Facing the flow of traffic. 
+- You must not park on the road marked with double white line. Even if one of the line is broken. --Exception - You can pick up or set down the passenger. 
 
 Reversing : 
 - Never reverse from side road onto main road. 
@@ -23,4 +24,17 @@ Cycle lane :
 - If there is Broken White Line, do not park or drive in cycle lane, unless it is unavoidable. 
 
 Parking in Disabled : You need to have Blue badge. Only disabled get that.  
+
+YOu can park Nearest to Junction : 10 meter - 32 Feet 
+
+Clearway : 
+- You must not stop for any reason at any time. 
+
+Urban Clearway : 
+- During Hours of enforcement, You cant stop or park , Except to Pick up or Drop off passenger.
+
+Red Route : 
+- Tighter than Urban Clearway. less than Clear way. 
+- Veh can stop are Taxies and Disabled blue badge holder. - But only for Picking up and Dropping. 
+- Red route with SIngle line. - ALlow for stopping during certain signpost. 
 
